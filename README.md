@@ -6,6 +6,7 @@
     <ul>
         <li>HTML</li>
         <li>CSS</li>
+        <li>유용한 자료</li>
     </ul>
 <hr>
 <h3>Javascript</h3>
